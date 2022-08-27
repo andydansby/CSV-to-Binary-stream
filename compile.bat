@@ -1,4 +1,4 @@
-
+path = "\include\"
 cls
-tcc dec2hex1.c
-dec2hex1.exe bob.txt
+tcc csv2bin.c
+csv2bin.exe bob.txt
